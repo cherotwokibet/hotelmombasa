@@ -15,7 +15,7 @@ Run on your terminal `$npm install` to install the project.
 
 ## Demo
 
-Live Demo https://app.netlify.com/sites/hotelmombasa
+Live Demo https://hotelmombasa.netlify.app
 
 
 ## Available Scripts
