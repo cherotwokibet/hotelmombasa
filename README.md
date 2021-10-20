@@ -5,10 +5,6 @@ This is hotel web app built with React js for learning purpose.
 ## Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Dependencies
-
-*Provide links and descriptions for the third-party libraries you're having your users install.*
-
 ### Installation
 Windows
 Run on your terminal `$npm install` to install the project.
