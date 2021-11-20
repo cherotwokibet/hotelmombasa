@@ -3,7 +3,7 @@ This is hotel web app built with React js for learning purpose.
 
 
 ## Live Site
-View page https://maggiespalace.netlify.app/
+View page https://hotelmombasa.netlify.app/
 
 ## Technologies Used
   - create-react-app
